@@ -1,0 +1,48 @@
+
+@font-face {
+    
+    font-family: 'DroidSans';
+    src: url('fonts/DroidSans/droinsans-webfront.eot') format('eot'),
+         url('fonts/DroidSans/DroidSans.ttf') format('truetype');
+}
+
+@font-face {
+    
+    font-family: 'DroidSans-Bold';
+    src: url('fonts/DroidSans/droinsans-bold-webfront.eot') format('eot'),
+         url('fonts/DroidSans/DroidSans-Bold.ttf') format('truetype');
+}
+
+
+@font-face {
+    
+    font-family: 'PTSans1';
+    src: url(fonts/PTSans/PTS55F.ttf);
+}
+@font-face {
+    
+    font-family: 'PTSans2';
+    src: url(fonts/PTSans/PTS56F.ttf);
+}
+@font-face {
+    
+    font-family: 'PTSans3';
+    src: url(fonts/PTSans/PTS75F.ttf);
+}
+@font-face {
+    
+    font-family: 'PTSans4';
+    src: url(fonts/PTSans/PTS76F.ttf);
+}
+
+
+@font-face {
+    
+    font-family: 'PTSansCaption1';
+    src: url(fonts/PTSans/PTC55F.ttf);
+}
+@font-face {
+    
+    font-family: 'PTSansCaption2';
+    src: url(fonts/PTSans/PTC75F.ttf);
+}
